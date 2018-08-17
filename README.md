@@ -9,11 +9,9 @@ THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN N
 </h6>
 
 # Rationale
-
-Shortest license I could make up that features:
-- Shortest clause compatible with Public Domain, Unlicense and CC0 intentions (+ no attribution required): from 0BSD license.
-- Shortest "No warranties + Dont held liable" legal text: from ZLIB license.
-- If both sections are orthogonal and DFSG/FSF/OSI/GPL compliant, this license *should* be DFSG/FSF/OSI/GPL compliant too.
+- Shortest free clause (from Zero-BSD license: "Public Domain/Unlicense/CC0 intentions + no attribution required").
+- Shortest legal text (from ZLIB license: "No Warranty + Dont held liable").
+- If both sections are orthogonal and OSI/FSF/GPL/DFSG compatible, this license *should* be OSI/FSF/GPL/DFSG compatible as well.
 
 # Links
 
