@@ -10,9 +10,7 @@ THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN N
 
 # Rationale
 - Universal donors, universal recipients. No attribution required. No Warranty. Dont held liable.
-- Shortest free clause (from BSD license).
-- Shortest legal text (from ZLIB license).
-- If both sections are orthogonal and OSI/FSF/GPL/DFSG compatible, this license *should* be OSI/FSF/GPL/DFSG compatible as well.
+- Shortest free clause (from BSD license) + Shortest legal text (from ZLIB license). If both sections are orthogonal and OSI/FSF/GPL/DFSG compatible, this license *should* be OSI/FSF/GPL/DFSG compatible as well.
 
 # Links
 
