@@ -1,4 +1,4 @@
-# nano-license
+# μLicense
 
 A free and tiny software license in 299 bytes.
 
