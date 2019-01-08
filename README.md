@@ -12,7 +12,7 @@ THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN N
 - Universal donors.
 - Universal recipients.
 - No attribution required. 
-- No Warranty. 
+- No warranty. 
 - Don't held liable.
 
 # Rationale
