@@ -3,7 +3,7 @@
 A free and tiny software license in 299 bytes.
 
 <h6>
-Copyright (C) &lt;year&gt; by &lt;name&gt;<br/>
+Copyright (c) &lt;year&gt; &lt;owner&gt;<br/>
 Redistribution and use in source and binary forms, with or without modification, are permitted.</br>
 THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN NO EVENT WILL THE AUTHORS BE HELD LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
 </h6>
