@@ -1,6 +1,6 @@
 # μLicense
 
-A free and tiny software license in 299 bytes.
+Tiny and free software license in 299 bytes.
 
 <h6>
 Copyright (c) &lt;year&gt; &lt;owner&gt;<br/>
