@@ -11,9 +11,10 @@ THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN N
 # Features
 - Universal donors.
 - Universal recipients.
-- No attribution required. 
+- No clauses.
 - No warranty. 
-- Don't held liable.
+- No liability.
+- No attribution required. 
 
 # Rationale
 - Shortest free clause (from BSD license)
