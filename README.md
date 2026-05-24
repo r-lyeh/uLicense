@@ -1,11 +1,11 @@
 # μLicense
 
-Tiny and free software license in 299 bytes.
+Tiny and free software license in 288 bytes.
 
 <h6>
 Copyright (c) &lt;year&gt; &lt;owner&gt;<br/>
 Redistribution and use in source and binary forms, with or without modification, are permitted.</br>
-THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN NO EVENT WILL THE AUTHORS BE HELD LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
+THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN NO EVENT WILL THE AUTHORS BE HELD LIABLE FOR ANY DAMAGES ARISING FROM THIS SOFTWARE.
 </h6>
 
 # Features
@@ -29,5 +29,6 @@ THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN N
 - https://opensource.org/faq#cc-zero
 
 # Changelog
+- 288 bytes: broader coverage: <tt>...ARISING FROM ~~THE USE OF~~ THIS SOFTWARE.</tt>
 - 299 bytes: with BSD clause, thanks @philliptrudeau! :)
 - 325 bytes: initial version.
